@@ -1,0 +1,33 @@
+A;B;C;D;E;F;G;H
+CLASE A;Produccion;Ageing in barrels;Ageing in bottles;Bottling;Storage;Services;Social
+Produccion;0;O;U;U;X;O;U
+Ageing in barrels;;0;E;E;U;U;O
+Ageing in bottles;;;0;A;O;U;O
+Bottling;;;;0;A;U;U
+Storage;;;;;0;U;X
+Services;;;;;;0;X
+Social;;;;;;;0
+;;;;;;;
+CLASE A;Produccion;Ageing in barrels;Ageing in bottles;Bottling;Storage;Services;Social
+Produccion;;1;0;0;-4;1;0
+Ageing in barrels;;;3;3;0;0;1
+Ageing in bottles;;;;4;1;0;1
+Bottling;;;;;4;0;0
+Storage;;;;;;0;-4
+Services;;;;;;;-4
+Social;;;;;;;
+;;;;;;;
+;;;;;;;
+N°;Unidad Funcional;Área;;;;;
+1;Área social;571.04;;;;;
+2;Producción;2105.7;;;;;
+3;Envejecimiento en barribles;392.6;;;;;
+4;Envejecimiento en botellas;285.5;;;;;
+5;Embotellamiento;107.1;;;;;
+6;Servicios;35.69;;;;;
+7;Almacenamiento;35.69;;;;;
+8;Almacenamiento de vino;-;;;;;
+9;Equipamiento industrial;-;;;;;
+10;Tratamientos enológicos;-;;;;;
+;Pasillos;35.69;;;;;
+;Área TOTAL;3569.0099999999998;;;;;
